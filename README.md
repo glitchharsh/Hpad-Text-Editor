@@ -8,4 +8,4 @@ To use this application either
 Compared to the default text editor, this application is very lacking. It was only a proof of concept for myself and an excuse to learn how to create a desktop application with python and convert it into an installable cross platform application.
 
 ![screenshot-1](screenshot.jpg)  
-![screenshot-2](screenshot1.jpg)
+![screenshot-2](screenshot2.jpg)
